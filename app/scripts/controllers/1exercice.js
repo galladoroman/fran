@@ -169,5 +169,63 @@ $scope.play17 = function(){
       } 
  }
 
+$scope.play18 = function(){
 
+    if ($scope.respuesta18 == 'On donne'){
+        alert('Correcto');
+      }
+      else {
+        alert('No es correcto');
+      } 
+ }
+
+$scope.play19 = function(){
+
+    if ($scope.respuesta19 == 'On présente'){
+        alert('Correcto');
+      }
+      else {
+        alert('No es correcto');
+      } 
+ }
+
+$scope.play20 = function(){
+
+    if ($scope.respuesta20 == 'On aime'){
+        alert('Correcto');
+      }
+      else {
+        alert('No es correcto');
+      } 
+ }
+
+$scope.play21 = function(){
+
+    if ($scope.respuesta21 == 'On voyage'){
+        alert('Correcto');
+      }
+      else {
+        alert('No es correcto');
+      } 
+ }
+
+$scope.play22 = function(){
+
+    if ($scope.respuesta22 == 'On travaille'){
+        alert('Correcto');
+      }
+      else {
+        alert('No es correcto');
+      } 
+ }
+
+$scope.play23 = function(){
+
+    if ($scope.respuesta23 == 'On entre'){
+        alert('Correcto');
+      }
+      else {
+        alert('No es correcto');
+      } 
+ }
   });
