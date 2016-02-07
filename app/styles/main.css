@@ -88,6 +88,15 @@ body {
   color: blue;
 }
 
+.color1exercice{
+  color: blue;
+  padding-left: 40px;
+}
+
+.asd{
+  padding-left: 20px;
+}
+
 .back1grammaire{
   background-color: #ddf;
 }
@@ -99,3 +108,15 @@ body {
 .green1grammaire{
   color: green;
 }
+
+hr{
+  border: 1px solid gray;
+}
+
+h5{
+  text-align: left;
+}
+.bandera{
+  width: 40px;
+}
+

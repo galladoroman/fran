@@ -34,6 +34,11 @@ angular
         controller: '1grammaireCtrl',
         controllerAs: '1grammaire'
       })
+      .when('/1exercice', {
+        templateUrl: 'views/1exercice.html',
+        controller: '1exerciceCtrl',
+        controllerAs: '1exercice'
+      })
       .otherwise({
         redirectTo: '/'
       });
