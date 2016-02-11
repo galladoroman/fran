@@ -7,6 +7,7 @@
 
 body {
   padding: 0;
+  font-size: 12px;
   }
 
   .row{
@@ -14,7 +15,6 @@ body {
   }
 
  /* For IE8 and earlier */
-}
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
@@ -101,11 +101,8 @@ body {
 
 .asd{
   padding-left: 20px;
-<<<<<<< Updated upstream
   font-size: 12px;
-=======
   font-size: 0.9em;
->>>>>>> Stashed changes
 }
 
 .back1grammaire{
