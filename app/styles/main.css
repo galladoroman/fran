@@ -101,7 +101,11 @@ body {
 
 .asd{
   padding-left: 20px;
+<<<<<<< Updated upstream
   font-size: 12px;
+=======
+  font-size: 0.9em;
+>>>>>>> Stashed changes
 }
 
 .back1grammaire{
@@ -122,8 +126,12 @@ hr{
 
 h5{
   text-align: left;
+  padding: 10px;
 }
 .bandera{
   width: 40px;
+}
+.color1exercice{
+  background-color: #ffe;
 }
 
