@@ -12,11 +12,10 @@ angular.module('franApp')
   	 $scope.play1 = function(){
 
     if ($scope.respuesta1 == 'travaille'){
-    		alert('Correcto');
+    		alert($scope.respuesta1 + ' es correcto');
+        $scope.respuesta1 = "";
     	}
-    	else {
-    		alert('No es correcto');
-    	}	
+    	
  }
 
    $scope.play2 = function(){

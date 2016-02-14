@@ -8,6 +8,7 @@
 body {
   padding: 0;
   font-size: 12px;
+
   }
 
   .row{
@@ -15,6 +16,7 @@ body {
   }
 
  /* For IE8 and earlier */
+
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
@@ -130,5 +132,51 @@ h5{
 }
 .color1exercice{
   background-color: #ffe;
+}
+
+/*1abogado*/
+.colorfondo{
+  background-color: #666;
+}
+.paddinizquierdo{
+  padding-left: 0;
+}
+
+.centradoimagen{
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 0x;
+}
+
+.borderabogado{
+  margin-top: 20px;
+  border-right: 1px solid #000;
+}
+.borderabogadoleft{
+  margin-top: 20px;
+  border-left: 1px solid #000;
+}
+img.fotoabsolute{
+  position: relative;
+}
+
+#colorfotoabogado{
+  font-family: calibri, times, verdana, arial, "helvetica neue";
+  color: #fff;
+  position: absolute;
+  top: 175px;
+  left:300px;
+}
+#paddinfoter{
+  margin-left: 0px;
+}
+
+#paddinp{
+  padding: 0;
+  margin: 0;
+}
+/*2abogado*/
+#colorblack{
+  color: black;
 }
 

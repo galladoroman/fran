@@ -39,6 +39,16 @@ angular
         controller: '1exerciceCtrl',
         controllerAs: '1exercice'
       })
+      .when('/1abogado', {
+        templateUrl: 'views/1abogado.html',
+        controller: '1abogadoCtrl',
+        controllerAs: '1abogado'
+      })
+      .when('/2abogado', {
+        templateUrl: 'views/2abogado.html',
+        controller: '2abogadoCtrl',
+        controllerAs: '2abogado'
+      })
       .otherwise({
         redirectTo: '/'
       });
