@@ -162,10 +162,8 @@ img.fotoabsolute{
 
 #colorfotoabogado{
   font-family: calibri, times, verdana, arial, "helvetica neue";
-  color: #fff;
-  position: absolute;
-  top: 175px;
-  left:300px;
+  color: gray;
+  
 }
 #paddinfoter{
   margin-left: 0px;
@@ -184,3 +182,6 @@ img.fotoabsolute{
   font-size: 9px;
 }
 
+.anchorow{
+  height: 250px;
+}
